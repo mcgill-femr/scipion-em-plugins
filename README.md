@@ -8,3 +8,22 @@ A nice tutorial for submodules can be found here:
 
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
+## Tips
+
+### Clone all submodules recursively
+
+git clone --recurse-submodules git@github.com:delarosatrevin/scipion-em-plugins.git
+
+### Add all plugins there to the PYTHONPATH
+
+This is only recommend for development, not when using standard Python installation with the plugins as normal packages.
+
+source /path/to/scipion-em-plugins/bash-plugins.sh
+
+### Check that all plugins are correctly detected 
+
+This will also show if there are some errors in the plugins.
+
+From the Scipion installation dir:
+
+./scipion python scripts/inspect-plugins.py
