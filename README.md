@@ -27,3 +27,6 @@ This will also show if there are some errors in the plugins.
 From the Scipion installation dir:
 
 ./scipion python scripts/inspect-plugins.py
+
+### Updating all submodules to the lastest in "devel"
+git submodule foreach "(git checkout devel; git pull --prune)&"
