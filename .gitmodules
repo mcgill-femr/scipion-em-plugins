@@ -1,9 +1,6 @@
 [submodule "scipion-em-relion"]
 	path = scipion-em-relion
 	url = git@github.com:scipion-em/scipion-em-relion
-[submodule "scipion-em-xmipp3"]
-	path = scipion-em-xmipp3
-	url = git@github.com:scipion-em/scipion-em-xmipp3
 [submodule "scipion-em-eman2"]
 	path = scipion-em-eman2
 	url = git@github.com:scipion-em/scipion-em-eman2
