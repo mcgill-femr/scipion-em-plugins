@@ -12,7 +12,7 @@ https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 ### Clone all submodules recursively
 
-git clone --recurse-submodules git@github.com:delarosatrevin/scipion-em-plugins.git
+git clone --recurse-submodules git@github.com:mcgill-femr/scipion-em-plugins.git
 
 ### Add all plugins there to the PYTHONPATH
 
