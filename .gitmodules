@@ -28,9 +28,6 @@
 [submodule "scipion-em-grigoriefflab"]
 	path = scipion-em-grigoriefflab
 	url = git@github.com:scipion-em/scipion-em-grigoriefflab.git
-[submodule "scipion-em-xmipp"]
-	path = scipion-em-xmipp
-	url = git@github.com:scipion-em/scipion-em-xmipp.git
 [submodule "scipion-em-cryomethods"]
 	path = scipion-em-cryomethods
 	url = git@github.com:mcgill-femr/scipion-em-cryomethods.git
