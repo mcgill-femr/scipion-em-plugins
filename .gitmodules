@@ -31,3 +31,6 @@
 [submodule "scipion-em-cryomethods"]
 	path = scipion-em-cryomethods
 	url = git@github.com:mcgill-femr/scipion-em-cryomethods.git
+[submodule "scipion-em-xmipp"]
+	path = scipion-em-xmipp
+	url = git@github.com:I2PC/scipion-em-xmipp.git
