@@ -1,36 +1,48 @@
 [submodule "scipion-em-relion"]
 	path = scipion-em-relion
 	url = git@github.com:scipion-em/scipion-em-relion
+	branch = devel
 [submodule "scipion-em-eman2"]
 	path = scipion-em-eman2
 	url = git@github.com:scipion-em/scipion-em-eman2
+	branch = devel
 [submodule "scipion-em-spider"]
 	path = scipion-em-spider
 	url = git@github.com:scipion-em/scipion-em-spider
+	branch = devel
 [submodule "scipion-em-motioncorr"]
 	path = scipion-em-motioncorr
 	url = git@github.com:scipion-em/scipion-em-motioncorr
+	branch = devel
 [submodule "scipion-em-gctf"]
 	path = scipion-em-gctf
 	url = git@github.com:scipion-em/scipion-em-gctf
+	branch = devel
 [submodule "scipion-em-gautomatch"]
 	path = scipion-em-gautomatch
 	url = git@github.com:scipion-em/scipion-em-gautomatch
+	branch = devel
 [submodule "scipion-em-cryoef"]
 	path = scipion-em-cryoef
 	url = git@github.com:scipion-em/scipion-em-cryoef
+	branch = devel
 [submodule "scipion-em-nysbc"]
 	path = scipion-em-nysbc
 	url = git@github.com:scipion-em/scipion-em-nysbc
+	branch = devel
 [submodule "scipion-em-imagic"]
 	path = scipion-em-imagic
 	url = git@github.com:scipion-em/scipion-em-imagic
+	branch = devel
 [submodule "scipion-em-grigoriefflab"]
 	path = scipion-em-grigoriefflab
 	url = git@github.com:scipion-em/scipion-em-grigoriefflab.git
+	branch = devel
 [submodule "scipion-em-cryomethods"]
 	path = scipion-em-cryomethods
 	url = git@github.com:mcgill-femr/scipion-em-cryomethods.git
+	branch = devel
 [submodule "scipion-em-xmipp"]
 	path = scipion-em-xmipp
 	url = git@github.com:I2PC/scipion-em-xmipp.git
+	branch = devel
