@@ -79,3 +79,6 @@
 [submodule "scipion-em-sphire"]
 	path = scipion-em-sphire
 	url = git@github.com:scipion-em/scipion-em-sphire
+[submodule "scipion-em-topaz"]
+	path = scipion-em-topaz
+	url = git@github.com:scipion-em/scipion-em-topaz
