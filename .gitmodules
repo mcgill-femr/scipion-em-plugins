@@ -76,3 +76,6 @@
 [submodule "scipion-em-bamfordlab"]
 	path = scipion-em-bamfordlab
 	url = git@github.com:scipion-em/scipion-em-bamfordlab.git
+[submodule "scipion-em-sphire"]
+	path = scipion-em-sphire
+	url = git@github.com:scipion-em/scipion-em-sphire
