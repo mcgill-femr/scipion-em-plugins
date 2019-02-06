@@ -80,7 +80,7 @@
 	url = git@github.com:scipion-em/scipion-em-phenix.git
 [submodule "scipion-em-localrec"]
 	path = scipion-em-localrec
-	url = git@github.com:scipion-em/scipion-em-localrec.git
+	url = git@github.com:scipion-em/scipion-em-localrec
 [submodule "scipion-em-empiar"]
 	path = scipion-em-empiar
 	url = git@github.com:scipion-em/scipion-em-empiar.git
