@@ -44,7 +44,7 @@
 	branch = devel
 [submodule "scipion-em-xmipp"]
 	path = scipion-em-xmipp
-	url = git@github.com:scipion-em/scipion-em-xmipp.git
+	url = git@github.com:i2pc/scipion-em-xmipp.git
 [submodule "scipion-em-ispyb"]
 	path = scipion-em-ispyb
 	url = git@github.com:scipion-em/scipion-em-ispyb.git
